@@ -9,7 +9,7 @@ package bai1.Tinhtoan;
  *
  * @author boss dung
  */
-public class nhan implements Itinh{
+public class nhan implements ITinh{
 
     @Override
     public float tinh(float a, float b) {

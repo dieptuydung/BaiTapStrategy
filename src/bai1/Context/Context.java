@@ -5,15 +5,15 @@
  */
 package bai1.Context;
 
-import bai1.Tinhtoan.Itinh;
+import bai1.Tinhtoan.ITinh;
 
 /**
  *
  * @author boss dung
  */
-public  abstract class Context {
-    Itinh tinhToan;
-    public void setTinhToan(Itinh tinhToan)
+public abstract   class Context {
+    ITinh tinhToan;
+    public void setTinhToan(ITinh tinhToan)
     {
         this.tinhToan=tinhToan;
     }

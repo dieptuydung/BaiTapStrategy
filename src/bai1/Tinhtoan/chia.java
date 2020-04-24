@@ -9,7 +9,7 @@ package bai1.Tinhtoan;
  *
  * @author boss dung
  */
-public class chia implements Itinh{
+public class chia implements ITinh{
   
 
     @Override
